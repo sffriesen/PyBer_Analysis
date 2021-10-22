@@ -8,21 +8,21 @@ The following numbers represent totals and averages performed on various pieces 
 
 ![](Resources/Pyber_Summary.png)
 
-##### Total Rides
+#### Total Rides
 - Rural: 125
 - Suburban: 625
 - Urban: 1,625
 
 Here we can see that Urban cities have a total of around 2.6 and 13 times as many rides as Suburban and Rural rides (respectively).
 
-##### Total Drivers
+#### Total Drivers
 - Rural: 78
 - Suburban: 490
 - Urban: 2,405
 
 Here we can see that Urban cities have a total of around 4.9 and 30.8 times as many drivers as Suburban and Rural rides (respectively).
 
-##### Average fare per ride and driver
+#### Average fare per ride and driver
 - Per Ride
   - Rural: $34.62
   - Suburban: $30.97
@@ -37,7 +37,7 @@ Here we can see that Rural cities average fare per ride is around 1.1 and 1.4 ti
 
 Here we can see that Rural cities average fare per driver is around 1.4 and 3.3 times greater than Suburban and Urban rides (respectively).
 
-##### Total Fares by City Type
+#### Total Fares by City Type
 - Rural: $4,327.93
 - Suburban: $19,356.33
 - Urban: $39,854.38
